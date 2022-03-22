@@ -3,11 +3,10 @@
 - 🌍 Ma website: [massimopiazza.com](https://www.massimopiazza.com)
 <img alt="forrest gump wave hand to say hi" src="https://c.tenor.com/sZSARlyRmLoAAAAC/tom-hanks-hi.gif" />
 
-### Quote of the day  🌞
+### Quote of the day*  🌞
  ![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=fun&theme=dark)
-
-
-
+ 
+*that actually changes after every reload, but nevermind eheh
 
 <!--
 **macs-massimopiazza/macs-massimopiazza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
