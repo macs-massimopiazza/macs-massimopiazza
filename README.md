@@ -5,7 +5,7 @@
 
 ### Quote of the day*  🌞
  ![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=fun&theme=dark)
- ![Quote](https://www.massimopiazza.com/randomQuote/)
+ ![Quote](https://www.massimopiazza.com/randomQuote/quote.png)
  
 *that actually changes after every reload, but nevermind eheh
 
