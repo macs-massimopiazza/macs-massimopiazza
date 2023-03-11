@@ -4,8 +4,7 @@
 <img alt="forrest gump wave hand to say hi" src="https://c.tenor.com/sZSARlyRmLoAAAAC/tom-hanks-hi.gif" />
 
 ### Quote of the day*  🌞
- ![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=fun&theme=dark)
- ![Quote](https://www.massimopiazza.com/randomQuote/quote.png)
+Trying to fix this eheh
  
 *that actually changes after every reload, but nevermind eheh
 
