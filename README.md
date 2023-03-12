@@ -4,7 +4,7 @@
 <img alt="forrest gump wave hand to say hi" src="https://c.tenor.com/sZSARlyRmLoAAAAC/tom-hanks-hi.gif" />
 
 ### Quote of the day*  🌞
-![Quote](https://www.massimopiazza.com/randomQuote/image_genera.php)
+![Quote](https://www.massimopiazza.com/randomQuote/image_generator.php)
  
 *that actually changes after every reload, but nevermind eheh
 
