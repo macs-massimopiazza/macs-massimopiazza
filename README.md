@@ -5,7 +5,6 @@
 
 ### Quote of the day*  🌞
 ![Quote](https://www.massimopiazza.com/randomQuote/image_generator.php)
-Trying to fix this eheh
  
 *that actually changes after every reload, but nevermind eheh
 
