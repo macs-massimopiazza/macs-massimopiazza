@@ -5,6 +5,7 @@
 
 ### Quote of the day*  🌞
 ![Quote](https://www.massimopiazza.com/randomQuote/image_quote_generator.php)
+[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
  
 *that actually changes after every reload, but nevermind eheh - nvm now it's strange, i'm working on it eheh
 
