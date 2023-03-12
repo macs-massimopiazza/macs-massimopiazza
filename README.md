@@ -6,7 +6,7 @@
 ### Quote of the day*  🌞
 ![Quote](https://www.massimopiazza.com/randomQuote/image_quote_generator.php)
  
-*that actually changes after every reload, but nevermind eheh
+*that actually changes after every reload, but nevermind eheh - nvm now it's strange, i'm working on it eheh
 
 <!--
 **macs-massimopiazza/macs-massimopiazza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
