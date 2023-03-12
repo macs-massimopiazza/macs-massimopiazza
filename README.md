@@ -6,8 +6,7 @@
 ### Quote of the day*  🌞
 [Quote](https://www.massimopiazza.com/randomQuote/image_quote_generator.php)
 [<img src="https://www.massimopiazza.com/randomQuote/image_quote_generator.php">](https://www.massimopiazza.com/randomQuote/image_quote_generator.php)
-![](`r sprintf("%s.png", x)`){width=25%} 
- 
+
 *that actually changes after every reload, but nevermind eheh - nvm now it's strange, i'm working on it eheh
 
 <!--
