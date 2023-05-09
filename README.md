@@ -7,7 +7,7 @@
 ![Quote](https://www.massimopiazza.com/randomQuote/image_quote_generator.php)
 
 
-*sometimes it works, sometimes don't. It is what is it is 🤹🏻‍♀️
+*sometimes works, sometimes don't. It is what is it is 🤹🏻‍♀️
 
 <!--
 **macs-massimopiazza/macs-massimopiazza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
