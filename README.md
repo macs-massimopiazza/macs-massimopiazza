@@ -1,11 +1,15 @@
 ### Helloooo, I'm Massimo 🤹🏻‍♂️
 - 📫 How to reach me: me@massimopiazza.com
 - 🌍 Ma website: [massimopiazza.com](https://www.massimopiazza.com)
-<img alt="forrest gump wave hand to say hi" src="https://c.tenor.com/sZSARlyRmLoAAAAC/tom-hanks-hi.gif" />
 
-### Quote of the day*  🌞
-![Quote](https://www.massimopiazza.com/randomQuote/image_quote_generator.php)
-
+<table border="0">
+ <tr>
+    <td><img alt="forrest gump wave hand to say hi" src="https://c.tenor.com/sZSARlyRmLoAAAAC/tom-hanks-hi.gif" /></td>
+    <td>### Quote of the day*  🌞
+        ![Quote](https://www.massimopiazza.com/randomQuote/image_quote_generator.php)
+    </td>
+ </tr>
+</table>
 
 *sometimes works, sometimes don't. It is what is it is 🤹🏻‍♀️
 
